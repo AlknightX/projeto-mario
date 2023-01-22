@@ -1,0 +1,14 @@
+footer {
+    background-color: rgb(0, 0, 0);
+    padding: 10px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    
+}
+
+footer span {
+    font-size: 1.0em;
+    font-weight: 400;
+    color: aliceblue;
+    }
